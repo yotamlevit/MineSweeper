@@ -1,0 +1,11 @@
+﻿  MINE.c
+D:\Yotam\MineSweeper\MINE.c(228,24): warning C4047:  'function': 'char *' differs in levels of indirection from 'char (*)[14]'
+D:\Yotam\MineSweeper\MINE.c(228,24): warning C4024:  'init_matrix': different types for formal and actual parameter 1
+D:\Yotam\MineSweeper\MINE.c(229,25): warning C4047:  'function': 'char *' differs in levels of indirection from 'char (*)[14]'
+D:\Yotam\MineSweeper\MINE.c(229,25): warning C4024:  'init_matrix': different types for formal and actual parameter 1
+D:\Yotam\MineSweeper\MINE.c(274,22): warning C4047:  '==': 'int *' differs in levels of indirection from 'int'
+D:\Yotam\MineSweeper\MINE.c(316,6): warning C4101:  'bomb_arround': unreferenced local variable
+D:\Yotam\MineSweeper\MINE.c(357,1): warning C4047:  'initializing': 'char' differs in levels of indirection from 'void *'
+D:\Yotam\MineSweeper\MINE.c(410,7): warning C4013:  'rintf' undefined; assuming extern returning int
+D:\Yotam\MineSweeper\MINE.c(402,7): warning C4101:  'end': unreferenced local variable
+  MineSweeper.vcxproj -> D:\Yotam\MineSweeper\Debug\MineSweeper.exe
